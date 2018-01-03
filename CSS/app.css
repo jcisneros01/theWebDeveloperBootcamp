@@ -1,12 +1,26 @@
 h1 {
-	color: red;
-}
-
-li {
-	color:green;
+	color: rgba(0,200,100,.8);
+	border-color: purple;
+	border-width: 5px;
+	border-style: dashed;
 }
 
 h4 {
-	color: purple;
+	background: rgb(255,100,80);
 }
+
+/*
+Borders:;
+width
+border
+color
+*/
+
+body {
+/*	background: url(https://i1.wp.com/www.atlassignworks.com/wp-content/uploads/2010/08/wood-grain-ash.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+	background: pink;
+}
+
 

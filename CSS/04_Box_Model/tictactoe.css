@@ -1,0 +1,25 @@
+h1 {
+	text-align: center;
+}
+
+.vertical {
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+
+}
+
+.horizontal {
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	
+}
+
+td {
+	height: 100px;
+	width: 100px;
+}
+
+table {
+	margin: auto;
+}
+
